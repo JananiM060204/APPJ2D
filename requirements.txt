@@ -1,9 +1,10 @@
 pip>=24.3.1
 setuptools
+configparser==5.0.2
 pyheif==0.5.1
 requests==2.26.0
 clip-by-openai
-matplotlib==3.4.2
+matplotlib==3.4.3
 torch==1.9.1  # or another compatible version
 whatimage==0.0.3
 streamlit==0.89.0
