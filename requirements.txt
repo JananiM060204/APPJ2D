@@ -1,5 +1,6 @@
 pip>=24.3.1
 setuptools
+distutils
 numpy==1.20.3
 pyheif==0.5.1
 requests==2.26.0
