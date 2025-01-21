@@ -1,7 +1,5 @@
 pip>=24.3.1
 setuptools
-distlib
-numpy==1.20.3
 pyheif==0.5.1
 requests==2.26.0
 clip-by-openai
